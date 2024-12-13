@@ -7,6 +7,8 @@ namespace TaskManagementRestApi
         public string? description { get; set; }
 
         public string? priority { get; set; }
+        
+        public string? status { get; set; }
 
         public string? dueDate { get; set; }
     }

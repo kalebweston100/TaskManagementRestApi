@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|c:\\users\\kaleb\\documents\\taskmanagementapi\\taskmanagementrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|c:\\users\\kaleb\\documents\\taskmanagementapi\\taskmanagementrestapi\\controllers\\taskmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|solutionrelative:controllers\\taskmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|c:\\users\\kaleb\\documents\\taskmanagementapi\\taskmanagementrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|c:\\users\\kaleb\\documents\\taskmanagementapi\\taskmanagementrestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55B65EDA-7D0C-4107-B4B9-A99F901C48F4}|TaskManagementRestApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T18:28:47.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TaskManagementController.cs",
               "DocumentMoniker": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\Controllers\\TaskManagementController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskManagementController.cs",
               "ToolTip": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\Controllers\\TaskManagementController.cs",
               "RelativeToolTip": "Controllers\\TaskManagementController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T16:46:02.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskManagementRestApi.http",
               "DocumentMoniker": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\TaskManagementRestApi.http",
               "RelativeDocumentMoniker": "TaskManagementRestApi.http",
               "ToolTip": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\TaskManagementRestApi.http",
               "RelativeToolTip": "TaskManagementRestApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-12-13T16:38:56.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T16:38:45.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\Task.cs",
               "RelativeDocumentMoniker": "Task.cs",
               "ToolTip": "C:\\Users\\kaleb\\Documents\\TaskManagementApi\\TaskManagementRestApi\\Task.cs",
               "RelativeToolTip": "Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T16:12:47.898Z",
               "EditorCaption": ""

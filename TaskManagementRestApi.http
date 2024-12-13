@@ -1,6 +1,7 @@
 @TaskManagementRestApi_HostAddress = http://localhost:5157
 
-GET {{TaskManagementRestApi_HostAddress}}/tasks/
-Accept: application/json
+GET {{TaskManagementRestApi_HostAddress}}/taskmanagement/
+
+POST {{TaskManagementRestApi_HostAddress}}/taskmanagement/
 
 ###

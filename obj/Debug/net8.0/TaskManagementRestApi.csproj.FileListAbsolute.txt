@@ -30,3 +30,4 @@ C:\Users\kaleb\Documents\TaskManagementApi\TaskManagementRestApi\obj\Debug\net8.
 C:\Users\kaleb\Documents\TaskManagementApi\TaskManagementRestApi\obj\Debug\net8.0\TaskManagementRestApi.pdb
 C:\Users\kaleb\Documents\TaskManagementApi\TaskManagementRestApi\obj\Debug\net8.0\TaskManagementRestApi.genruntimeconfig.cache
 C:\Users\kaleb\Documents\TaskManagementApi\TaskManagementRestApi\obj\Debug\net8.0\ref\TaskManagementRestApi.dll
+C:\Users\kaleb\Documents\TaskManagementApi\TaskManagementRestApi\obj\Debug\net8.0\TaskManagementRestApi.sourcelink.json
