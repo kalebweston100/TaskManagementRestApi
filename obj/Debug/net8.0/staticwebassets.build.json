@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iyRSaC/x2Sk7DBKkV1Dvi4UhUqjofgNnFkSLbFRKnJg=",
+  "Source": "TaskManagementRestApi",
+  "BasePath": "_content/TaskManagementRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

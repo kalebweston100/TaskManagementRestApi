@@ -1,0 +1,40 @@
+[
+  {
+    "ContainingType": "TaskManagementRestApi.Controllers.TaskManagementController",
+    "Method": "Post",
+    "RelativePath": "TaskManagement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "json",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "CreateTask"
+  },
+  {
+    "ContainingType": "TaskManagementRestApi.Controllers.TaskManagementController",
+    "Method": "Get",
+    "RelativePath": "TaskManagement",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetTasks"
+  }
+]
